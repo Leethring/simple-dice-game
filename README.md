@@ -1,6 +1,6 @@
 # Simple Dice Game
 
-There is a simple python script to implement a simple word dice game.
+A python script to implement a simple word dice game.
 
 ## Start the game
 
